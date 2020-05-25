@@ -1,2 +1,2 @@
 # PublicData
-publicly sourced data sets or data I have provided
+publicly sourced data sets or my data
